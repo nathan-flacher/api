@@ -1,1 +1,0 @@
-console.log("it's the start of a beautiful world");
